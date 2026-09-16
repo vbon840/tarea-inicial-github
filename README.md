@@ -4,16 +4,25 @@
 
 ## ¿Cuál empresa está detrás de GitHub?
 
-Detrás de GitHub se encuentra _**Microsoft**_, empresa que compró la plataforma en junio de 2018. 
-
+Detrás de GitHub se encuentra _**Microsoft**_, empresa que compró la plataforma en junio de 2018.
 GitHub fue desarrollado originalmente por una empresa llamada Logical Awesome LLC, la cual fue fundada en 2007 por Tom Preston-Werner, Chris Wanstrath y PJ Hyett.
 
-## Qué es GitHub CopilotGit
+### Página oficial de Microsoft
 
-Hub Copilot _es un asistente de programación basado en IA_ desarrollado conjuntamente por GitHub y OpenAI.
+La siguiente captura muestra la página web oficial de **Microsoft**, empresa propietaria de GitHub. En la captura también se muestra el entorno utilizado para realizar esta tarea.
 
-- **Autocompletado inteligente:** Se integra en los editores de código (como VS Code o JetBrains) para sugerir líneas o funciones completas en tiempo real.
+![Página web oficial de Microsoft](img/microsoft.png)
 
-- **Contexto del proyecto:** Analiza el archivo abierto y los códigos relacionados para ofrecer soluciones adaptadas a lo que el programador está escribiendo.
+## Qué es GitHub Copilot
 
-- **Lenguaje natural:** Permite escribir comentarios en texto plano para que la IA genere el código correspondiente de manera automática.
+GitHub Copilot _es un asistente de programación basado en IA_ desarrollado conjuntamente por GitHub y OpenAI.
+
+- **Autocompletado inteligente:**
+  - Se integra en editores de código como VS Code o JetBrains.
+  - Sugiere líneas de código y funciones completas en tiempo real.
+- **Contexto del proyecto:**
+  - Analiza el archivo abierto y el código relacionado.
+  - Ofrece sugerencias adaptadas al contexto en el que está trabajando el programador.
+- **Lenguaje natural:**
+  - Permite escribir instrucciones o comentarios en texto natural.
+  - A partir de estas indicaciones, puede generar el código correspondiente.
