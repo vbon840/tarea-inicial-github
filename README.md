@@ -1,6 +1,6 @@
 # QUE ES GITHUB
 
-==**GitHub**== es una plataforma para los desarrolladores. GitHub ayuda a almacenar, gestionar y colaborar en proyectos de código mediante el sistema de control de versiones Git.
+**GitHub** es una plataforma para los desarrolladores. GitHub ayuda a almacenar, gestionar y colaborar en proyectos de código mediante el sistema de control de versiones Git.
 
 ## ¿Cuál empresa está detrás de GitHub?
 
