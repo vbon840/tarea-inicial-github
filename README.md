@@ -1,11 +1,11 @@
-# QUE ES GITHUB
+# ¿QUE ES GITHUB?
 
 **GitHub** es una plataforma para los desarrolladores. GitHub ayuda a almacenar, gestionar y colaborar en proyectos de código mediante el sistema de control de versiones Git.
 
 ## ¿Cuál empresa está detrás de GitHub?
 
-Detrás de GitHub se encuentra _**Microsoft**_, empresa que compró la plataforma en junio de 2018.
-GitHub fue desarrollado originalmente por una empresa llamada Logical Awesome LLC, la cual fue fundada en 2007 por Tom Preston-Werner, Chris Wanstrath y PJ Hyett.
+Detrás de GitHub se encuentra _**Microsoft**_, empresa que anunció la adquisición de GitHub en junio de 2018 y completó la compra en octubre del mismo año.
+GitHub comenzó como un proyecto desarrollado por Tom Preston-Werner y Chris Wanstrath, al que posteriormente se incorporó PJ Hyett. La plataforma se lanzó oficialmente en 2008.
 
 ### Página oficial de Microsoft
 
@@ -13,9 +13,9 @@ La siguiente captura muestra la página web oficial de **Microsoft**, empresa pr
 
 ![Página web oficial de Microsoft](img/microsoft.png)
 
-## Qué es GitHub Copilot
+## ¿Qué es GitHub Copilot?
 
-GitHub Copilot _es un asistente de programación basado en IA_ desarrollado conjuntamente por GitHub y OpenAI.
+GitHub Copilot _es un asistente de programación basado en IA_ que ayuda a los desarrolladores a escribir, comprender y modificar código.
 
 - **Autocompletado inteligente:**
   - Se integra en editores de código como VS Code o JetBrains.
